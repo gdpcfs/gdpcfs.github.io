@@ -3,10 +3,10 @@
 Gem::Specification.new do |spec|
   spec.name          = "texture"
   spec.version       = "0.3"
-  spec.authors       = ["Samarjeet"]
-  spec.email         = ["thelehhman@gmail.com"]
+  spec.authors       = ["蓬橙服饰有限公司"]
+  spec.email         = ["t13528725660@163.com"]
 
-  spec.summary       = "A configurable jekyll theme for simply beautiful blogs."
+  spec.summary       = "成为最受尊敬的服饰批发企业"
   spec.homepage      = "https://github.com/thelehhman/texture"
   spec.license       = "MIT"
 

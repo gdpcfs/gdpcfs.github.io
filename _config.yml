@@ -12,7 +12,7 @@ texture:
   title: 蓬橙服饰有限公司
   tagline: 蓬橙服饰
   date_format: "%b %-d, %Y"
-  style: black
+  style: blue
   showNav: false
   showPicker: true
 
@@ -26,8 +26,8 @@ texture:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
+header_pages:
+ - about.md
 
 # Build settings
 # theme: texture
