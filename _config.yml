@@ -1,0 +1,37 @@
+title: 蓬橙服饰有限公司
+author: 蓬橙服饰
+email: 13528725660@163.com
+description: 成为最受尊敬的服饰批发企业
+baseurl: /texture
+
+sass:
+  sass_dir: _sass
+
+permalink: /posts/:title/
+texture:
+  title: 蓬橙服饰有限公司
+  tagline: 蓬橙服饰
+  date_format: "%b %-d, %Y"
+  style: black
+  showNav: false
+  showPicker: true
+
+  # generate social links in footer
+  social_links:
+    twitter: thelehhman
+    github:  thelehhman
+    linkedIn: in/thelehhman
+    rss: rss
+ 
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
+
+# Build settings
+# theme: texture
+
+plugins:
+  - jekyll-seo-tag
+#  - jekyll-feed
